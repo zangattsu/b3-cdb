@@ -1,4 +1,4 @@
-﻿namespace B3.CDB.Domain
+﻿namespace Be.CDB.Data
 {
     public class Class1
     {
